@@ -10,4 +10,4 @@ Enjoy.
 
 This feature, which extracts phone numbers from the US standard, can be easily adjust to other patterns/regions.
 
-# Please bear in mind that this is from the Automate the boring stuff training project but made by my hands.
+# Please bear in mind that this is from the Automate the Boring Stuff with Python Programming training project but made by my hands.
