@@ -1,4 +1,4 @@
-# phoneAndEmail-Scraper
+# phoneAndEmail_Scraper
 This is a great simple program. It extracts phone numbers and emails.
 
 This program can easily give you phone numbers (US) and emails from any file, website or wherever you can copy such data. It's pretty magical.
